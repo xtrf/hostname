@@ -11,6 +11,3 @@ galaxy_info:
         - all
   categories:
     - system
-
-dependencies: 
-  - role: ANXS.apt
